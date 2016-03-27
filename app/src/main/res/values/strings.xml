@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_names">PaliTodDoAppp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">My todo Lists...</string>
+    <string name="title_activity_new">Add New Task here...</string>
+</resources>
